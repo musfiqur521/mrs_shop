@@ -22,7 +22,9 @@
 <section class="content">
             <!-- Default box -->
         <div class="container-fluid">
-            @include('admin.message')
+
+        @include('admin.message')
+            
             <div class="card">
                 <form action="" method="get">
 
